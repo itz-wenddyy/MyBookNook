@@ -1,70 +1,79 @@
 # 📚 MyBookNook
 
-**MyBookNook** is a cozy digital space for book lovers — track your reading progress, manage your library, and stay connected with friends through shared reading goals and challenges.
+**MyBookNook** is a cozy and intuitive reading tracker that helps book lovers organize their library, set reading goals, and share their progress with friends. Designed with a soft, minimal aesthetic, it blends functionality and comfort — like your favorite reading nook, but digital.
 
 ---
 
 ## ✨ Features
 
 - **📖 Track Reading Progress:**  
-  Log pages read, view percentage completion, and add personal notes or favorite quotes for each book.
+  Log pages read, view completion percentages, and add personal notes or favorite quotes for each book.
 
 - **🏆 Challenges & Goals:**  
-  Set monthly and yearly reading goals, and participate in themed challenges to stay motivated.
+  Set and monitor your monthly or yearly reading goals, and join reading challenges to stay motivated.
 
 - **👥 Reading Circle:**  
-  Connect with friends, see what they’re reading, and celebrate milestones together.
+  Connect with friends, view their progress, and share your latest reads.
 
 - **💡 Discover Your Next Read:**  
-  Personalized book suggestions based on your library and wishlist.
+  Get personalized book recommendations based on your library and wishlist.
 
 - **📚 Library Management:**  
-  Organize your books into *Currently Reading*, *To Be Read*, and *Finished* categories.
+  Organize your books into *Currently Reading*, *To Be Read*, and *Finished* collections.
+
+---
+
+## 🧩 Tech Stack
+
+### **Frontend**
+- ⚛️ **React** — for building a dynamic and responsive user interface  
+- 🎨 **Tailwind CSS** — for clean, consistent, and modern styling  
+- 🧭 **React Router** — for smooth navigation between Home, Library, Social, and Profile pages  
+
+### **Backend**
+- 🔥 **Firebase** — for authentication, Firestore database, and storage  
+  or  
+- 🐘 **Supabase** — open-source alternative powered by Postgres  
+
+### **Optional Add-ons**
+- 📚 **Google Books API / Open Library API** — for fetching book titles, authors, and covers  
+- ☁️ **Vercel / Netlify** — for hosting and continuous deployment  
 
 ---
 
 ## 🖼️ Screenshots
 
 ### Home Dashboard
-Track your current reads, progress, and reading streaks.
+Track your current reads, progress, and reading streaks.  
 ![Home Screen](./screenshots/home.png)
 
 ### Library & Social
-View your collection, reading circle, and community goals.
+Explore your collection, reading circles, and challenges.  
 ![Library Screen](./screenshots/library.png)
-
----
-
-## 🧩 Tech Stack
-
-- **Frontend:** Figma (UI Design Prototype)  
-- **Design System:** Soft color palette, rounded cards, and minimal icons for a calm reading experience  
-- *(Optional: if implemented as a real app, you can add React / Firebase / etc.)*
 
 ---
 
 ## 🚀 Future Additions
 
 - Social feed for sharing reviews and quotes  
-- Dark mode  
-- Mobile responsiveness  
-- Integration with book APIs (e.g., Google Books or Open Library)
+- Dark mode and customizable themes  
+- Mobile-friendly responsive design  
+- Integration with more book APIs  
 
 ---
 
-## 💙 Credits
+## 💙 About the Creator
 
-- **Design:** [Figma Project](https://www.figma.com/design/dmrovPhxPC19kbK5a71KQZ/Book-%3C3)  
-- **Created by:** [Your Name]  
+**Designed and developed by:** *Wendy G*  
+> A passionate designer and developer who loves combining creativity, usability, and storytelling to build meaningful digital experiences.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License — feel free to use and adapt for your own reading apps!
+This project is licensed under the **MIT License** — feel free to use and adapt it for your own projects.
 
 ---
-
 
   ## Running the code
 
